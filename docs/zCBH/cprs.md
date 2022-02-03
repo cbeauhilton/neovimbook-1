@@ -13,6 +13,13 @@ CPRS has a rather staggering amount of keyboard shortcuts.
 The full list is available in this 
 [pdf](http://www.va.gov/vdl/documents/Clinical/Comp_Patient_Recrd_Sys_(CPRS)/cprsguium.pdf).
 
+I haven't done much with the full possibilities
+of the shortcut workflow - people have written 
+little scripts that essentially mash buttons
+in particular sequences to, for example,
+clear useless alerts 
+(e.g. critical lab values from your last ICU shift).
+
 ## Task management
 
 One of the beautiful and awful things
@@ -140,7 +147,6 @@ It works.
 The main utility of CPRSBooster 
 is to give you ideas for other text expansions you could set up,
 such as your nurse's name for tagging on notes.
-
 
 ## VistA
 
